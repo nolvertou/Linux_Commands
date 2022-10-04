@@ -1,0 +1,3 @@
+who
+- displays all the users who have logged into the system currently.
+- The thing tty2 is terminal line the user is using and the next line gives the current date and time
