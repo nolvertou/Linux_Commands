@@ -1,0 +1,7 @@
+
+
+
+
+// You want GitHub to match exactly your local repo (safe reset)
+// If you want GitHub to look exactly like your local repo without manual merging
+git push origin +master
